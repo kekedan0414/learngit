@@ -1,3 +1,3 @@
 Git is a distributed control system
-Git is gree software
+Gait is gree software
 
